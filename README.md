@@ -8,6 +8,12 @@ We wanted to take this project further and make it into a fun game.
 
 Sphero Slalom - Sphero race with Kinect. The idea is to use Kinect sensors to track your wrist and elbow angle to navigate Sphero. This is a 'science for kids' project. A fun activity that kids will love to learn about how sensors track objects. We used Kinect, Winjs, Nodejs, ProcessingJs and c#.
 
+Owners/Maintainers :
+- vrbloom@gmail.com
+- mathewdoulgerakis@gmail.com
+- hannahsuppiah@googlemail.com
+- pasupulaphani@gmail.com
+
 Great feedback: 
 <blockquote class="twitter-tweet" lang="en"><p>Have to say the Kinect / Sphero game was the coolest thing I saw this weekend <a href="https://twitter.com/gosphero">@gosphero</a> <a href="https://twitter.com/hashtag/KinecthackLondon?src=hash">#KinecthackLondon</a> <a href="http://t.co/Pnj005W7bg">pic.twitter.com/Pnj005W7bg</a></p>&mdash; Jo Eyre (@Jo_Eyre) <a href="https://twitter.com/Jo_Eyre/status/579732921214435329">March 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
