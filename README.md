@@ -23,5 +23,3 @@ Great feedback:
 
 <img src="https://pbs.twimg.com/media/CAugARGWsAESr-a.jpg">
 <img src="https://pbs.twimg.com/media/CAttUDpUUAAuVNA.jpg">
-
-Code: coming soon.
