@@ -1,0 +1,2 @@
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\MySpheroApp.jsproj;x86
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroLibrary\MySpheroLibrary.csproj;x86

@@ -1,0 +1,63 @@
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\ReverseMap\resources.pri
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\AppxManifest.xml
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\MySpheroApp.build.appxrecipe
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\MySpheroLibrary.winmd
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\RobotKit.dll
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pdb
+d:\temp\MySpheroLibrary\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pri
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\MySpheroApp.jsprojResolveAssemblyReference.cache
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\MySpheroApp.jsproj.GenerateResource.Cache
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\priconfig.xml
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\priconfig.xml.intermediate
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\layout.resfiles
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\layout.resfiles.intermediate
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\resources.resfiles
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\resources.resfiles.intermediate
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\pri.resfiles
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\pri.resfiles.intermediate
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\qualifiers.txt
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\qualifiers.txt.intermediate
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\temp\MySpheroLibrary\MySpheroApp\bld\x86\Debug\ProjectArchitectures.txt
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\ReverseMap\resources.pri
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\AppxManifest.xml
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroApp.build.appxrecipe
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.winmd
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\RobotKit.dll
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pdb
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pri
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\MySpheroApp.jsprojResolveAssemblyReference.cache
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\MySpheroApp.jsproj.GenerateResource.Cache
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\priconfig.xml
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\priconfig.xml.intermediate
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\layout.resfiles
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\layout.resfiles.intermediate
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\resources.resfiles
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\resources.resfiles.intermediate
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\pri.resfiles
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\pri.resfiles.intermediate
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\qualifiers.txt
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Demo\Downloads\SpheroPost\MySpheroApp\bld\x86\Debug\ProjectArchitectures.txt
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\ReverseMap\resources.pri
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\AppxManifest.xml
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroApp.build.appxrecipe
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.winmd
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\RobotKit.dll
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pdb
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\MySpheroLibrary.pri
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\MySpheroApp.jsprojResolveAssemblyReference.cache
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\MySpheroApp.jsproj.GenerateResource.Cache
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\priconfig.xml
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\priconfig.xml.intermediate
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\layout.resfiles
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\layout.resfiles.intermediate
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\resources.resfiles
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\resources.resfiles.intermediate
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\pri.resfiles
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\pri.resfiles.intermediate
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\qualifiers.txt
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\qualifiers.txt.intermediate
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\ProjectArchitectures.txt

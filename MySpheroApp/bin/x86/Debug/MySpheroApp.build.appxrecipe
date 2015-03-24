@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALIENV</Machine>
+    <WindowsUser>Victoria</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>f9f379f5-14ff-4388-9880-deef4130e602</PackageIdentityName>
+    <IntermediateOutputPath>D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bld\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroLibrary\bin\x86\Debug\MySpheroLibrary.winmd">
+      <PackagePath>MySpheroLibrary.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroLibrary\bin\x86\Debug\RobotKit.dll">
+      <PackagePath>RobotKit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\-1.png">
+      <PackagePath>images\-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\-2.png">
+      <PackagePath>images\-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\-3.png">
+      <PackagePath>images\-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\0.png">
+      <PackagePath>images\0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\1.png">
+      <PackagePath>images\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\2.png">
+      <PackagePath>images\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\3.png">
+      <PackagePath>images\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\bg.png">
+      <PackagePath>images\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\inside.png">
+      <PackagePath>images\inside.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\steeringwheel.png">
+      <PackagePath>images\steeringwheel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\trafic lights0001.png">
+      <PackagePath>images\trafic lights0001.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\trafic lights0002.png">
+      <PackagePath>images\trafic lights0002.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\trafic lights0003.png">
+      <PackagePath>images\trafic lights0003.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\wheel0001.png">
+      <PackagePath>images\wheel0001.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\images\wheel0002.png">
+      <PackagePath>images\wheel0002.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\js\processing.min.js">
+      <PackagePath>js\processing.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\js\processing_rt.js">
+      <PackagePath>js\processing_rt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\js\script1.js">
+      <PackagePath>js\script1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Users\Victoria\Documents\Visual Studio 2013\Projects\SpheroPost2\SpheroPost\MySpheroApp\bin\x86\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x64\WindowsPreview.Kinect_2.0_x64.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\">
+      <Name>Microsoft.WindowsPreview.Kinect.8.1</Name>
+      <Version>2.0.1410.19000</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsPreview.Kinect.8.1, MinVersion = 2.0.1410.19000</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\.\AppX\Debug\x86\WindowsPreview.Kinect_2.0_Win32.appx</AppxLocation>
+      <MoreInfo>http://www.kinectforwindows.com</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
