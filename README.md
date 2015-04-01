@@ -2,7 +2,7 @@
 
 Started at https://twitter.com/KinecthackLDN - 22 Mar 2015
 
-Inspired by the work by [@mtaulty](https://twitter.com/mtaulty) - [playing-with-kinect-for-windows-v2-and-sphero-from-a-windows-8-1-store-app](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2014/09/10/playing-with-kinect-for-windows-v2-and-sphero-from-a-windows-8-1-store-app.aspx) 
+Inspired by the work of [@mtaulty](https://twitter.com/mtaulty) - [playing-with-kinect-for-windows-v2-and-sphero-from-a-windows-8-1-store-app](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2014/09/10/playing-with-kinect-for-windows-v2-and-sphero-from-a-windows-8-1-store-app.aspx) 
 
 We wanted to take this project further and make it into a fun game.
 
